@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848067920535",
+    "project_id": "weexspend",
+    "storage_bucket": "weexspend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848067920535:android:aa9cd9991d91fff0d89fd2",
+        "android_client_info": {
+          "package_name": "com.example.we_exspend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848067920535-rk72b9n0bk2tih9qrnqqnd518olf0afr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRO2--MZdEvzZL4pkS1Zl5iBGxp5CmD04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848067920535-rk72b9n0bk2tih9qrnqqnd518olf0afr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
