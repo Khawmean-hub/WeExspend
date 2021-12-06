@@ -29,6 +29,7 @@ final Color whiteSmoke = Color(0xFFf6f6f6);
 final Color lightGrey = Color(0xFFF4F4F2);
 final Color lowBlackText = Color(0xFF909090);
 final Color red = Colors.redAccent;
+final Color blue = Color(0xFF1778f2);
 
 String currentLang = "English";
 

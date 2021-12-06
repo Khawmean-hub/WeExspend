@@ -37,6 +37,7 @@ class MyApp extends StatelessWidget {
     
     return MaterialApp(
       title: 'WeExspend',
+      debugShowCheckedModeBanner: false,
       theme: themeData,
       initialRoute: HomeSc.routeName,
       routes: routes,

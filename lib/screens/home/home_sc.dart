@@ -1,4 +1,5 @@
 import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
 
 class HomeSc extends StatefulWidget {
   static String routeName = "/home";
@@ -11,7 +12,9 @@ class HomeSc extends StatefulWidget {
 class _HomeScState extends State<HomeSc> {
   @override
   Widget build(BuildContext context) {
-    return Container(
+    return Scaffold(
+      appBar: AppBar(),
+      body: SafeArea(child: Container(),),
       
     );
   }
